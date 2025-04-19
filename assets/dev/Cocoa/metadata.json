@@ -1,0 +1,12 @@
+{
+    "name": "COCOA",
+    "symbol": "COCOA",
+    "description": "COCOA Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Compressed Coil"
+      }
+    ]
+  }
